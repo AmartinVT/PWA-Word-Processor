@@ -13,9 +13,14 @@
   "dependencies": {
     "express": "^4.18.1",
     "idb": "^7.0.2",
-    "service-worker-plugin": "^2.0.5"
+    "service-worker-plugin": "^2.0.5",
+    "concurrently": "^5.2.0"
   },
   "devDependencies": {
     "webpack": "^5.74.0"
+  },
+  "comments": {
+    "comment-start:dev": "Script uses concurrently to start client and server apps at same time",
+    "comment-concurrently": "Concurrently is installed as a dev dependency to allow client and server to be started using single script"
   }
 }

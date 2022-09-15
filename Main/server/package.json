@@ -1,7 +1,11 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "engines":{
+        "node":"18.8.0",
+        "npm": "8.18.0"
+    },
+    "description": "PWA text editor",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"

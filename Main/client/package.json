@@ -1,5 +1,9 @@
 {
   "name": "JATE",
+  "engines":{
+    "node":"18.8.0",
+    "npm": "8.18.0"
+  },
   "scripts": {
     "dev": "webpack-dev-server -d source-map",
     "build": "webpack --mode production",
