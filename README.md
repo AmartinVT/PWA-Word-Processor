@@ -8,5 +8,12 @@ Assignment: GT Coding Bootcamp Week 19 PWA Challenge
 # Description
 
 # Dependencies
+Webpack
+
+Service Worker
+
+idb
+
+Express
 
 # Screenshots
