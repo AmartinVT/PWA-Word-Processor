@@ -1,4 +1,3 @@
-
 const installBtn = document.getElementById('buttonInstall');
 
 window.addEventListener('beforeinstallprompt', (event) => {
