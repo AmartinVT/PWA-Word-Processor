@@ -29,6 +29,7 @@
     "css-loader": "^6.7.1",
     "mini-css-extract-plugin": "^2.6.1",
     "nodemon": "^2.0.4",
-    "val-loader": "^5.0.0"
+    "val-loader": "^5.0.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
