@@ -6,6 +6,7 @@
     "start": "webpack --watch"
   },
   "author": "2U",
+  "main": "src-sw.js",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
